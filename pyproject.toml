@@ -1,6 +1,6 @@
 [project]
 name = "fishfyi"
-version = "0.1.0"
+version = "0.1.1"
 description = "Fish species and marine biology API client — fishfyi.com"
 readme = "README.md"
 license = "MIT"
@@ -40,6 +40,7 @@ all = ["fishfyi[api,cli,mcp]"]
 
 [project.scripts]
 fishfyi = "fishfyi.cli:app"
+fishfyi-mcp = "fishfyi.mcp_server:main"
 
 [project.entry-points."mcp.servers"]
 fishfyi = "fishfyi.mcp_server:mcp"
