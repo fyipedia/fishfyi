@@ -327,6 +327,17 @@ Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosyst
 | plantfyi | [PyPI](https://pypi.org/project/plantfyi/) | — | Plant taxonomy & cultivation — [plantfyi.com](https://plantfyi.com/) |
 | dinofyi | [PyPI](https://pypi.org/project/dinofyi/) | — | Dinosaur paleontology & fossil record — [dinofyi.com](https://dinofyi.com/) |
 
+## Embed Widget
+
+Embed [FishFYI](https://fishfyi.com) widgets on any website with [fishfyi-embed](https://widget.fishfyi.com):
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/fishfyi-embed@1/dist/embed.min.js"></script>
+<div data-fishfyi="entity" data-slug="example"></div>
+```
+
+Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.fishfyi.com)
+
 ## License
 
 MIT
