@@ -338,6 +338,15 @@ Embed [FishFYI](https://fishfyi.com) widgets on any website with [fishfyi-embed]
 
 Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.fishfyi.com)
 
+## Recently Updated (v0.1.2)
+
+Latest content state on [https://fishfyi.com](https://fishfyi.com):
+- [Homepage](https://fishfyi.com)
+- [Developer documentation](https://fishfyi.com/developers/)
+- [Sitemap (full content index)](https://fishfyi.com/sitemap.xml)
+
+Version bumped 2026-05-27 as part of the FYIPedia [SEO recovery refresh](https://github.com/dobestan).
+
 ## License
 
 MIT
